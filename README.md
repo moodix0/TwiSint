@@ -1,6 +1,6 @@
 # TwiSint
 
-#### simple tool for collecting tweets, RT, Like and save it as CSV file.
+#### simple tool for collecting tweets, RT, Like and save it as CSV file
 
 Just clone it & run it.
 >
@@ -9,7 +9,8 @@ Just clone it & run it.
     * chmod +x TwiSint.py
     * python3 TwiSint.py
 >
+* Note:
+  * you have to use your own credentials 'API'.
+>
 * Enter the limit of tweets that you want to collect.
 * Enter the username: ...
-  * Note:
-    * you have to use your own credentials 'API'.
