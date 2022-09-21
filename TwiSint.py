@@ -1,7 +1,7 @@
 import tweepy
 import pandas as pd
 
-print(" \n    TwiSint  \n Twitter: @moodix0 \n Github: @moodix94 \n")
+print(" \n    TwiSint  \n Twitter: @moodix0 \n Github: @moodix0 \n")
 
 print("\n *** \n Before start using script, you have to insert your own credentials! \n *** ")
 
